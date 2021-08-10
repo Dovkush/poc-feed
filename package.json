@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "antd": "^4.16.11",
+    "firebase": "^8.9.0",
     "getstream": "^7.2.10",
     "parcel-bundler": "^1.12.5",
     "react": "^17.0.2",
